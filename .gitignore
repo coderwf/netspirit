@@ -1,0 +1,9 @@
+*.metadata
+*.idea
+*.settings
+.classpath
+.project
+bin/
+target/
+repository
+
